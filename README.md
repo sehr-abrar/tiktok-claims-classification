@@ -17,8 +17,6 @@ This project demonstrates the application of data analytics skills learned in th
 ## Current Repo Structure
 - `data/` – raw and cleaned datasets (synthetic or anonymized)  
 - `notebooks/` – Jupyter notebooks for EDA, hypothesis testing, and modeling  
-- `scripts/` – Python scripts for preprocessing and modeling  
-- `visualizations/` – plots, charts, and dashboards  
 - `docs/` – project proposal, PACE document, and final reports  
 
 ## Usage
