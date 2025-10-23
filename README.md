@@ -20,4 +20,4 @@ This project demonstrates the application of data analytics skills learned in th
 - `docs/` – project proposal, PACE document, and final reports  
 
 ## Usage
-You can explore the notebooks to see the workflow from data exploration to model evaluation, and review the visualizations and reports for both technical and executive audiences.
+You can explore the notebooks to see the workflow from data exploration to model evaluation, and review the visualizations and reports for both technical and executive audiences!
